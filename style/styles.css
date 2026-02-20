@@ -47,7 +47,8 @@ footer {
 .locations {
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-left-right: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin-bottom: 40px;
   background-color: #e7e7e7;
 }
